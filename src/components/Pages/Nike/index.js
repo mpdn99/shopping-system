@@ -1,6 +1,6 @@
 import React from 'react'
 import './styles.css'
-import Item from '../../Item/index'
+import Item from '../../Container/Item/index'
 import NikeAirForce from '../../../images/air-force-1-07-shoe-3nGnlt.jpg'
 import NikeAirMax from '../../../images/air-max-270-react-rs-shoe-LFF98p.jpg'
 import NikeAirMonarch from '../../../images/air-monarch-iv-training-shoe-cc3XbD.jpg'

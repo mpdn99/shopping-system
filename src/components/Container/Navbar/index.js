@@ -11,10 +11,10 @@ const Navbar = () => {
                 className='navbar-logo'>
                     ABC
                 </Link>
-                <Link to='/'
+                {/* <Link to='/'
                 className='navbar-list'>
                     Homepage
-                </Link>
+                </Link> */}
                 <Link className="navbar-list" to="/addidas">
                     Addidas
                     <ChevronDown size={15} strokeWidth="3px" />

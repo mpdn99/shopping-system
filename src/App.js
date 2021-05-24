@@ -1,6 +1,6 @@
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
-import Navbar from './components/Navbar/index'
+import Navbar from './components/Container/Navbar/index'
 import HomePage from './components/Pages/HomePage/index';
 import Addidas from './components/Pages/Addidas/index';
 import Balenciaga from './components/Pages/Balenciaga/index';

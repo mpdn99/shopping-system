@@ -1,0 +1,21 @@
+[debug] [2021-05-24T16:23:03.469Z] ----------------------------------------------------------------------
+[debug] [2021-05-24T16:23:03.470Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\mpdn9\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-05-24T16:23:03.471Z] CLI Version:   9.11.0
+[debug] [2021-05-24T16:23:03.471Z] Platform:      win32
+[debug] [2021-05-24T16:23:03.471Z] Node Version:  v15.12.0
+[debug] [2021-05-24T16:23:03.471Z] Time:          Mon May 24 2021 23:23:03 GMT+0700 (Indochina Time)
+[debug] [2021-05-24T16:23:03.471Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-05-24T16:23:03.477Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-05-24T16:23:03.477Z] > authorizing via signed-in user (mpdn99@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\mpdn9\Desktop\Dev\Project\shopping-system
+
