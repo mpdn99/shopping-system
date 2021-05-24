@@ -1,0 +1,57 @@
+.item-container{
+    position: relative;
+    width: 235px;
+    height: 345px;
+    display: flex;
+    margin: 20px;
+}
+.ellipse{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    background: #C4C4C4;
+    right: 0px;
+}
+.item{
+    width: 220px;
+    height: 330px;
+    align-self: flex-end;
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.heart-icon{
+    margin-top: 6px;
+    margin-left: 5.5px;
+}
+.item-img{
+    width: 210px;
+    height: 168px;
+    margin-left: 5px;
+}
+.item-detail{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-top: -35px;
+    margin-right: 20px;
+    line-height: 0.5px;
+}
+.item-btn{
+    width: 175px;
+    height: 40px;
+    border-radius: 10px;
+    background: #C4C4C4;
+    font-weight: bold;
+    margin-top: 2px;
+}
+#text1{
+    font-size: 20px;
+    font-weight: bold;
+}
+#text2{
+    font-size: 17px;
+    font-weight: bold;
+    color: #C7C5C5;
+}
