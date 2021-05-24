@@ -11,8 +11,8 @@ const Nike = () => {
             <h1>Nike</h1>
             <div className="list-items">
                 <Item img={NikeAirForce} name="Nike Air Force 1" star="3.6" price="100.00" />
-                <Item img={NikeAirMax} name="Nike Air Force 1" star="3.9" price="57.00" />
-                <Item img={NikeAirMonarch} name="Nike Air Force 1" star="3.8" price="120.00" />
+                <Item img={NikeAirMax} name="Nike Air Max" star="3.9" price="57.00" />
+                <Item img={NikeAirMonarch} name="Nike Air Monarch" star="3.8" price="120.00" />
             </div>
             
         </div>
